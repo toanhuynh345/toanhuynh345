@@ -1,4 +1,5 @@
-<?php
+
+```<?php
 $harder = true;
 $discipline = true;
 $try_to_execute = true
@@ -10,3 +11,4 @@ do {
   echo "His hobbies are ".implode(", ", $hobbies);
 } while (true);
 ?>
+```
