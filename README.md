@@ -8,8 +8,8 @@
 ---
 
 ## 🤖 About me:
-I’m a Software Engineer who’s passionate about creating efficient and scalable backend systems. With experience working in Golang and PHP, I enjoy building solutions that not only work seamlessly but also add real value to businesses and their users.
-When I’m not coding, you’ll probably find me at the gym, swimming, cycling, running, or exploring the mountains on a trekking trip. Staying active isn’t just about fitness for me—it helps me stay disciplined, and ready to tackle challenges, both in life and at work.
+  I’m a Software Engineer who’s passionate about creating efficient and scalable backend systems. With experience working in Golang and PHP, I enjoy building solutions that not only work seamlessly but also add real value to businesses and their users.
+  When I’m not coding, you’ll probably find me at the gym, swimming, cycling, running, or exploring the mountains on a trekking trip. Staying active isn’t just about fitness for me—it helps me stay disciplined, and ready to tackle challenges, both in life and at work.
 - **Currently learning** -> Ultimate AWS Certified Solutions Architect Associate 2025 (Udemy)
 - **Currently working on** -> Private Projects  
 
